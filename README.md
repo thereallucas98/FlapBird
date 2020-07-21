@@ -2,7 +2,8 @@
 _________
 
 ### 🤔 Sobre?
-Projeto desenvolvido no curso WEB MODERNO da COD3R,simulando o FLAP-BIRD.
+Projeto desenvolvido no curso WEB MODERNO da COD3R, simulando o FLAP-BIRD.
+<br>
 <a href="https://www.udemy.com/course/curso-web/"> Web Moderno </a>
 
 <h2 align="center"> 📷 Screenshot do projeto: </h2>
