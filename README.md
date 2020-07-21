@@ -7,7 +7,7 @@ Projeto desenvolvido no curso WEB MODERNO da COD3R,simulando o FLAP-BIRD.
 
 <h2 align="center"> 📷 Screenshot do projeto: </h2>
 <p align="center">
-<img width="400" height="400" src="/public/imgs/flap-bird.jpg">
+<img width="600" height="400" src="/public/imgs/flap-bird.jpg">
 </p>
 
 _________
